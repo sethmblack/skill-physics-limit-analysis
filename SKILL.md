@@ -3,8 +3,8 @@ name: physics-limit-analysis
 description: Determine whether a constraint is fundamental (physics) or artificial (policy/process/convention), and calculate the gap between current state and theoretical limit.
 license: MIT
 metadata:
+  version: 1.0.4690
   author: sethmblack
-  version: 1.0.4689
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - physics-limit-analysis
